@@ -1,4 +1,4 @@
-# Age–Length Structured Population Model (Paper A)
+# Logistic maturation model for analysis of population dynamics (Paper A)
 
 This repository contains the R and C++ (TMB) code used in **Paper A of my PhD thesis**, where an age–length structured model is developed for analysing capelin stock dynamics. The work combines R for data processing and estimation routines with **TMB (Template Model Builder)** C++ templates for fast likelihood evaluation. A small amount of MATLAB code is included for optional figure generation.
 
