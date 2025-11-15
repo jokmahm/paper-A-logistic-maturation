@@ -35,10 +35,10 @@ These scripts load the input data, construct the model, run optimization via TMB
 
 ---
 
-## MATLAB Figures (Optional)
+## Markov properties
 
-A small set of figures can be produced using MATLAB. To run these:
+Results related to Markov properties can be produced using a peice of MATLAB code. To run these:
 
 ```matlab
 cd matlab
-run("marckov.m")
+run("markov.m")
